@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Morceleb.github.io</id>
-    <title>byMorceleb</title>
-    <updated>2021-10-05T06:16:25.381Z</updated>
+    <title>Morceleb</title>
+    <updated>2021-10-05T06:17:03.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Morceleb.github.io"/>
     <link rel="self" href="https://Morceleb.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://Morceleb.github.io/images/avatar.png</logo>
     <icon>https://Morceleb.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, byMorceleb</rights>
+    <rights>All rights reserved 2021, Morceleb</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Morceleb.github.io/post/hello-gridea/</id>
